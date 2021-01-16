@@ -1,0 +1,83 @@
+.nav-img{
+    width: 291.11px;
+    height: 39.27px;
+}
+.half-width{
+    width: 50%;
+   
+} 
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 60px;
+}
+.heading-color{
+    color:#FABE4C;
+}
+.description{
+    margin-top: 70px;
+}
+.btn{
+    background-color: #fa804c;
+    align-items: center;
+    
+}
+/*  woman and man jacket*/
+/* .card-img-top{
+    height: 60%;
+} */
+.card{
+    border: 2px;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 1%;
+    box-shadow: 5px 5px 10px grey;
+}
+  
+
+/* facilities section    */
+.facilities-item img{
+    width: 78px;
+    height: 82px;
+}
+.facilities-item{
+    margin: 30px;
+    padding: 20px;
+    height: 33%;
+    margin: 2% 10%;
+    padding: 5%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px lightgrey;  
+}
+.facilities-item-description{
+    font-family: Roboto;
+    font-size: 16px;
+    color: #3E3E3E;
+}
+
+
+.footer1{
+    color: #ffffff;
+    background-color: #282531;
+    margin-top: 100px;
+    width: 100%;
+    padding: 40px 20px;
+    
+}
+ul li{
+    list-style-type: none;
+}
+.links a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+/* footer section */
+.copyright{
+    margin-top: 70px;
+    text-align: center;
+}
+
+
